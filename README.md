@@ -1,7 +1,5 @@
-# Prog2_26-1
-best attempt
 ## Programación 2 (INF25) — 2026-1
-
+best attempt
 <div align="center">
 
 </div>
